@@ -1,5 +1,5 @@
-#This code assumes that the Rscript is in the same directory as the ExData_Plotting1 repo 
-#and uses the package lubridate
+#This code assumes that the Rscript is in the working directory to which the file is household power
+#consumption file will be download and unzipped and uses the package lubridate
 
 library(lubridate)
 
